@@ -11,7 +11,7 @@
   
 ## Overview
 
-**Mind Detective** is a mind mapping application that allows users to visually organize their thoughts and ideas. Users can add points, connect them with lines, and include images and text to create a comprehensive mind map. This application is built using Python's Tkinter library and provides a user-friendly interface for brainstorming and idea management.
+**Mind Dump** is a mind mapping application that allows users to visually organize their thoughts and ideas. Users can add points, connect them with lines, and include images and text to create a comprehensive mind map. This application is built using Python's Tkinter library and provides a user-friendly interface for brainstorming and idea management.
 
 ## Features
 
@@ -45,7 +45,7 @@
 
 ## Usage
 
-1. **Run the Application**: Execute the script to launch the Mind Detective application.
+1. **Run the Application**: Execute the script to launch the Mind Dump application.
 2. **Add Ideas**: Click on the canvas to add points.
 3. **Connect Ideas**: Click on two points to draw a line between them.
 4. **Add Images**: Right-click on a point to change its image.
@@ -67,8 +67,8 @@ For any inquiries or issues, please contact:
 
 ![EScreenshot](https://github.com/XOZ3E/MIND-DUMP/blob/main/loss.png)
 ![EZScreenshot](https://github.com/XOZ3E/MIND-DUMP/blob/main/toss.png)
-**YOUTUBE**: [MINDDUMP](https://www.youtube.com/watch?v=wcnzh_IMM6k)
+**YOUTUBE**: [MIND DUMP](https://www.youtube.com/watch?v=wcnzh_IMM6k)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
