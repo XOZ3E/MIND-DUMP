@@ -4,7 +4,7 @@
 
 ## THERE ARE MANY LIKE THIS ON INTERNET BUT
 
-- **THEY HAVE PRICING**: It's free and opeb.
+- **THEY HAVE PRICING**: It's free and open.
 - **YOU NEED TO CONNECT TO ACCOUNT OR THEY ARE WEB BASED**: Complete offline.
 - **HARD TO CHAGE OR MODIFY**: Mine is a simple Tkinter layout so you can modify.
 
