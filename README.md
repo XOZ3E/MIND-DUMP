@@ -4,9 +4,9 @@
 
 ## THERE ARE MANY LIKE THIS ON INTERNET BUT
 
-- **THEY HAVE PRICING**: It's free and open.
-- **YOU NEED TO CONNECT TO ACCOUNT OR THEY ARE WEB BASED**: Complete offline.
-- **HARD TO CHAGE OR MODIFY**: Mine is a simple Tkinter layout so you can modify.
+- **THEY HAVE PRICING**: This is free and open.
+- **YOU NEED TO CONNECT TO ACCOUNT OR THEY ARE WEB BASED**: This is Complete offline.
+- **HARD TO CHANGE OR MODIFY**: This is a simple Tkinter layout so you can modify.
 
   
 ## Overview
