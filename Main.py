@@ -89,6 +89,9 @@ class GraphApp:
         if len(self.points) == 2:
             self.line_id = self.canvas.create_line(self.points[0][0], self.points[0][1], self.points[1][0], self.points[1][1], fill=self.kal, width=5)
             self.lines.append({'lin':self.line_id,'col':self.kal,'x1':self.points[0][0],'y1':self.points[0][1],'x2':self.points[1][0],'y2':self.points[1][1]})
+            img=self.images[-1]
+            if img['line']==None:
+             img['line']=self.line_id 
             a, b = self.points[1][0], self.points[1][1]
             self.points.clear() 
             self.points.append((a, b))
@@ -107,8 +110,10 @@ class GraphApp:
             if self.lines:
                 line_id = self.lines.pop()
                 self.canvas.delete(line_id['lin'])
-            image_id = self.images.pop()
-            self.canvas.delete(image_id['id'])
+             image_id=self.images[-1]
+            if image_id['line']==None or line_id['lin']==image_id['line']  :
+             image_id = self.images.pop()
+             self.canvas.delete(image_id['id'])
             self.pointsx.pop()
             self.points.clear()
             if self.pointsx:
