@@ -8,7 +8,7 @@ import json
 class GraphApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("MIND DETECTIVE")
+        self.root.title("MIND DUMP")
         menu_bar = Menu(root)
         file_menu = Menu(menu_bar, tearoff=0)
         file_menu.add_command(label="Save", command=self.save_to_file)  
