@@ -1,5 +1,14 @@
 # MIND-DUMP
 
+## LET ME KNOW IF YOU WANNA DEVELOP OR HAVE ANY IDEA
+
+## THERE ARE MANY LIKE THIS ON INTERNET BUT
+
+- **THEY HAVE PRICING**: It's free and opeb.
+- **YOU NEED TO CONNECT TO ACCOUNT OR THEY ARE WEB BASED**: Complete offline.
+- **HARD TO CHAGE OR MODIFY**: Mine is a simple Tkinter layout so you can modify.
+
+  
 ## Overview
 
 **Mind Detective** is a mind mapping application that allows users to visually organize their thoughts and ideas. Users can add points, connect them with lines, and include images and text to create a comprehensive mind map. This application is built using Python's Tkinter library and provides a user-friendly interface for brainstorming and idea management.
